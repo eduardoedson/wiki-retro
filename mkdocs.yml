@@ -1,7 +1,18 @@
 site_name: RetRO Wiki
 site_url: https://wiki-retro.eduardoalves.tech/
+
 theme:
   name: material
+  language: en
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
   palette:
     - scheme: default
       primary: indigo
@@ -9,10 +20,30 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+nav:
+  - Welcome: index.md
+  - Server Information:
+    - Custom NPCs: features/npc.md
+    - Automatic Events: features/event.md
+    - Special Coins: features/coins.md

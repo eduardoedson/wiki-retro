@@ -1,17 +1,40 @@
-# Welcome to MkDocs
+## Welcome to RetRO - Where Ragnarok Begins Again
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+### General
+* Episode: 	13.1: Ash Vacuum
+* Server Type: Pre-Renewal
+* Max Level: 99/70
+* Max Status Normal/Baby: 99
+* Max ASPD: 193
+* Instant Cast: 150 dex
+* Server Time: UTC
+* Emulator: rAthena
+* International Server
+* Server Language: English
 
-## Commands
+### Rates
+* Exp: 5x
+* Normal Monster Items Drops and Cards: 5x
+* MvP Items Drops: 3x
+* Mini Boss and MvP Card Drops: 1x
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### Features
+* No Job Changer
+* No Free Healer or Buffer
+* Special System Coin
+* No Sell Cards
+* Daily Rewards System
+* Hunting Missions
+* Quality of Life Improvements
+* MVP Instances
+* Reset stats/skills
+* GRF editing allowed
+* Cosmetic only cash shop
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Commands
+    @commands   @autopot    @rates
+    @refresh    @autotrade  @iteminfo 
+    @noask      @showexp    @ksprotection 
+    @showdelay  @autoloot   @whodrops 
+    @showzeny   @hominfo    @homstats 
+    @mobinfo
