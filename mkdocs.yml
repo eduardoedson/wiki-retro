@@ -1,5 +1,18 @@
 site_name: RetRO Wiki
 site_url: https://wiki-retro.eduardoalves.tech/
 theme:
-  name: material 
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
