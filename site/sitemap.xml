@@ -2,18 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://wiki-retro.eduardoalves.tech/</loc>
-         <lastmod>2025-12-28</lastmod>
+         <lastmod>2025-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki-retro.eduardoalves.tech/channel/</loc>
+         <lastmod>2025-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki-retro.eduardoalves.tech/rules/</loc>
+         <lastmod>2025-12-29</lastmod>
     </url>
     <url>
          <loc>https://wiki-retro.eduardoalves.tech/features/coins/</loc>
-         <lastmod>2025-12-28</lastmod>
+         <lastmod>2025-12-29</lastmod>
     </url>
     <url>
          <loc>https://wiki-retro.eduardoalves.tech/features/event/</loc>
-         <lastmod>2025-12-28</lastmod>
+         <lastmod>2025-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki-retro.eduardoalves.tech/features/hour/</loc>
+         <lastmod>2025-12-29</lastmod>
     </url>
     <url>
          <loc>https://wiki-retro.eduardoalves.tech/features/npc/</loc>
-         <lastmod>2025-12-28</lastmod>
+         <lastmod>2025-12-29</lastmod>
+    </url>
+    <url>
+         <loc>https://wiki-retro.eduardoalves.tech/maps/bio4/</loc>
+         <lastmod>2025-12-29</lastmod>
     </url>
 </urlset>

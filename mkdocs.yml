@@ -43,7 +43,12 @@ markdown_extensions:
 
 nav:
   - Welcome: index.md
+  - Server Rules: rules.md
+  - Channel: channel.md
   - Server Information:
     - Custom NPCs: features/npc.md
     - Automatic Events: features/event.md
     - Special Coins: features/coins.md
+    - Hourly Points System: features/hour.md
+  - Special Maps:
+      - Bio Lab Basement Floor 4: maps/bio4.md

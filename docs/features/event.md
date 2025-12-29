@@ -1,13 +1,12 @@
-### Automatic Events
+|                                                | NPC               | Location                            | Description                                                                                                                          |
+|------------------------------------------------|-------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|![4_NFCOCK.gif](/assets/images/4_NFCOCK.gif) | Cluckers          | <code>/navi prontera 156/219</code> | Click the chicken and try retrieve the item at a low chance. If you fail he will nuke, freeze, stone, stun, or make you fall asleep. |
+|![4_M_DANGDANG.gif](/assets/images/4_M_DANGDANG.gif)| Disguise Event    | <code>/navi prontera 170/199</code> | Guess a monster name correctly for prizes.                                                                                           |
+|![4_EXJOB_HYUN_ROK.gif](/assets/images/4_EXJOB_HYUN_ROK.gif) | Devil Square      | <code>/navi prontera 127/193</code> | Defeat waves of monsters for a reward.                                                                                               |
+|![4_M_PATRICK.gif](/assets/images/4_M_PATRICK.gif)| Lottery           | <code>/navi prontera 164/174</code> | Daily lottery draw                                                                                                                   |
+|![4_F_ELENA.gif](/assets/images/4_F_ELENA.gif)| Crazy Elena       | <code>/navi prontera 164/172</code> | Plays a hybrid Russian Roulette Rock–Paper–Scissors game.                                                                            |
+|![4_EP17_KAYA.gif](/assets/images/4_EP17_KAYA.gif)| Black Jack Dealer | <code>/navi prontera 164/170</code> | Black Jack card game.                                                                                                                |
+|![4_M_JOB_KNIGHT1.gif](/assets/images/4_M_JOB_KNIGHT1.gif) | Death Match       | <code>/navi prontera 140/176</code> | PvP event that opens registration every 2 hours.                                                                                     |
+|![4_M_NFDEADSWDMAN.gif](/assets/images/4_M_NFDEADSWDMAN.gif)| Cursed Knight     | <code>/navi prontera 140/174</code> | Teams have to find the Cursed Knight located at the bottom end of the map.                                                           |   
+|![4_M_JOB_KNIGHT2.gif](/assets/images/4_M_JOB_KNIGHT2.gif)| Fortress          | <code>/navi prontera 140/172</code> |Last team that controls the Main Fortress wins the match.|   
 
-| NPC               | Location          |
-|-------------------|-------------------|
-| Cluckers          | prontera,156,219  |
-| Disguise Event    | prontera,170,199  |
-| Devil Square      | prontera,127,193  |
-| Lottery           | prontera,164,174  |
-| Crazy Elena       | prontera,164,172  |
-| Black Jack Dealer | prontera,164,170  |
-| Death Match       | prontera,140,176  |
-| Cursed Knight     | prontera,140,174  |   
-| Fortress          | prontera,140,172  |   
