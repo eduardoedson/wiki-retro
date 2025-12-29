@@ -1,5 +1,6 @@
 site_name: RetRO Wiki
-site_url: https://wiki-retro.eduardoalves.tech/
+site_url: https://wiki-retro.eduardoalves.tech/site
+use_directory_urls: true
 
 theme:
   name: material
