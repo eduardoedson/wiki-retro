@@ -3,6 +3,10 @@ site_url: https://wiki-retro.eduardoalves.tech/
 
 theme:
   name: material
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  site_name: RetRO Wiki
+  site_description: Official RetRO documentation
   language: en
   features:
     - navigation.sections
@@ -26,6 +30,9 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+
+extra_css:
+  - assets/styles/extra.css
 
 plugins:
   - search
