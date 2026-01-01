@@ -1,5 +1,7 @@
 site_name: RetRO Wiki
-site_url: https://wiki-retro.eduardoalves.tech/site
+site_url: https://ret-ro.io/wiki
+site_dir: wiki
+
 use_directory_urls: true
 
 theme:
@@ -53,6 +55,7 @@ nav:
   - Welcome: index.md
   - Server Rules: rules.md
   - Channel: channel.md
+  - Quality of Life: qol.md
   - Server Information:
     - Custom NPCs: features/npc.md
     - Automatic Events: features/event.md
