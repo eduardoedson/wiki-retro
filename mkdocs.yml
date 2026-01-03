@@ -61,5 +61,6 @@ nav:
     - Automatic Events: features/event.md
     - Special Coins: features/coins.md
     - Hourly Points System: features/hour.md
+    - Skill Changes: features/skills.md
   - Special Maps:
       - Bio Lab Basement Floor 4: maps/bio4.md
