@@ -24,7 +24,7 @@
 * Special System Coin
 * No Sell Cards
 * Daily Rewards System
-* Hunting Missions
+* Eden Group
 * Quality of Life Improvements
 * MVP Instances
 * Reset stats/skills
