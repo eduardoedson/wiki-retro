@@ -126,18 +126,9 @@ on the server.
 ---------------------------------------
 
 @autopot <hp|sp> <item id> {<min hp|sp % [1..100]>} {<delay [100..1000]>}
-@autopot <hp|sp> list
-@autopot <hp|sp> on|off
-@autopot info
-@autopot help
-@autopot blacklist
 
 Allows configuring automatic usage of healing items for HP or SP.
 The item will be used when the defined HP/SP percentage is reached,
 respecting the configured delay.
-
-Use "list" to display configured items.
-Use "on|off" to enable or disable autopot.
-Use "blacklist" to manage maps where autopot is disabled.
 
 ---------------------------------------
