@@ -7,9 +7,6 @@ Enable to mark the last location you were at on the mini-map whenever you telepo
 ### @autopot
 To configure items to be used automatically.
 
-### @woetime
-To check woe schedule.
-
 ### @autoloot
 So you don’t need to loot manually.
 

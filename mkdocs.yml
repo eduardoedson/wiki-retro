@@ -56,6 +56,7 @@ nav:
   - Server Rules: rules.md
   - Channel: channel.md
   - Quality of Life: qol.md
+  - Commands: commands.md
   - Server Information:
     - Custom NPCs: features/npc.md
     - Automatic Events: features/event.md
