@@ -8,4 +8,4 @@ Items are identified automatically.
 To help you to get basic equipment.
 
 ### Thanatos Tower
-Removed requirement to enter Level 3
+Removed requirement to enter Level 3.
