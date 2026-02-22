@@ -16,3 +16,5 @@
 | Tarot Card            | Each card is 1/14 chance                           |
 | SG Skills             | Allow use without proper day                       |
 | Double Attack         | Works with critical                                |
+| Flip Coin             | Always summon all the coins                        |
+| Grand Cross           | Items such Rideword and Hunter Fly card works      |
