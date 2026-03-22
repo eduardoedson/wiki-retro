@@ -11,4 +11,4 @@
   * Blessing  
   * Magnificat  
   * Soul Linker Spirit
-* Access to the **@storage command**
+* Access to the **@storage command** 
