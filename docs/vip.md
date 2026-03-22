@@ -5,7 +5,7 @@
 #### Access to a **special Teleport NPC**, allowing travel to:
 * Dimensius locations  
 * Quest-locked maps  
-* Other exclusive areas
+* Other areas
 #### Access to a **30-minute buff package**, including:
 * Increase Agility  
 * Blessing  
