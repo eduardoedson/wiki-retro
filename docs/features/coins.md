@@ -17,7 +17,7 @@
   - Shining Plant
   - Thief Bug
   - Tarou
-  - Plankton <br/>
+  - Plankton <br/><br/>
 ![BRONZE_COIN](../assets/images/BRONZE_COIN.png)
 
 ## Silver Coin
