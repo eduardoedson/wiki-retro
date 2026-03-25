@@ -17,6 +17,7 @@
   - Shining Plant
   - Thief Bug
   - Tarou
+  - Mandragora
   - Plankton <br/><br/>
 ![BRONZE_COIN](../assets/images/BRONZE_COIN.png)
 
