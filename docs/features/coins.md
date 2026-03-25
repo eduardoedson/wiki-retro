@@ -1,5 +1,23 @@
 #### Bronze Coin
 * A basic currency commonly found across the world of RetRO, dropped by most monsters with a 5% chance.<br>
+* The following monsters are excluded from dropping Bronze Coins:<br>
+  - Orc Zombie
+  - Thief Bug Female
+  - Thief Bug Male
+  - Familiar
+  - Hydra
+  - Thief Bug Egg
+  - Peco Peco Egg
+  - Ant Egg
+  - Red Plant
+  - Blue Plant
+  - Green Plant
+  - Yellow Plant
+  - White Plant
+  - Shining Plant
+  - Thief Bug
+  - Tarou
+  - Plankton
 ![BRONZE_COIN](../assets/images/BRONZE_COIN.png)
 
 #### Silver Coin
