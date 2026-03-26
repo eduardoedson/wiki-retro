@@ -18,7 +18,8 @@
   - Thief Bug
   - Tarou
   - Mandragora
-  - Plankton <br/><br/>
+  - Plankton <br/>
+#### Players with an active Homunculus will not trigger Bronze Coin drops.<br/><br/>
 ![BRONZE_COIN](../assets/images/BRONZE_COIN.png)
 
 ## Silver Coin
